@@ -1,0 +1,18 @@
+Welcome to Oreopolis!
+
+In this mining site, you will find many precious ores that you can mine freely with the backpack and pickaxes
+we provide you. However, we must warn you, these backpacks are limited and the pickaxes are not the most durable
+and its durability will reduce for every rock/ore mined. Thankfully, you can use the ores that you mine to gain
+money and refresh your pickaxe's durability. These are very costly so be mindful of what you mine and when.
+
+Rules:
+1. Win condition: get 1000 money (you lose if you run out of moves without getting 1000 money first.
+2. 3 types of ores
+    - Gold ore = 100 money
+    - Silver ore = 50 money
+    - Iron ore = 20 money
+3. Players start with 15 moves (pickaxe durability).
+4. 60 money = +5 moves (restore pickaxe durability).
+5. Backpack has a maximum capacity of 10 ores.
+
+Enjoy Oreopolis!
