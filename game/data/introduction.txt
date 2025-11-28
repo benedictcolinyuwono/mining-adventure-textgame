@@ -6,7 +6,7 @@ and its durability will reduce for every rock/ore mined. Thankfully, you can use
 money and refresh your pickaxe's durability. These are very costly so be mindful of what you mine and when.
 
 Rules:
-1. Win condition: get 1000 money (you lose if you run out of moves without getting 1000 money first.
+1. Win condition: get 1000 money (you lose if you run out of moves without getting 1000 money first).
 2. 3 types of ores
     - Gold ore = 100 money
     - Silver ore = 50 money
